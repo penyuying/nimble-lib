@@ -1,0 +1,20 @@
+{
+  "name": "nimble-lib",
+  "version": "0.0.1",
+  "description": "基础vue ui库",
+  "main": "modules/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:penyuying/nimble-lib.git"
+  },
+  "keywords": [
+    "vue组件",
+    "vue",
+    "ui库"
+  ],
+  "author": "penyuying",
+  "license": "MIT"
+}
